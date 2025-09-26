@@ -7,3 +7,7 @@ This subfolder provides reproducible pipelines to generate datasets for the Hugh
 2. Wavefront Tracking (WFT) (discontinuity-aware transport; samples reconstructed on a uniform grid)
 
 Designed for our paper’s experiments and for benchmarking learning-based surrogates.
+
+References:
+
+Wavefront Tracking (WFT): https://www-sop.inria.fr/members/Paola.Goatin/wft.html
