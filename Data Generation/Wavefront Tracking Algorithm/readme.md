@@ -1,6 +1,6 @@
 # Hughes Model Data Generation
 
-This repository contains the code used to generate and preprocess data for the **Hughes model**.
+This folder contains the code used to generate and preprocess data for the **Hughes model** before feeding it to train the neural operators.
 
 ## Overview
 
