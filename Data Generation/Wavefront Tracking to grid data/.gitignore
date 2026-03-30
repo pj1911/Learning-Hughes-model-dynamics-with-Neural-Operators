@@ -1,0 +1,10 @@
+# Generated dataset files (can be very large)
+*.mat
+
+# MATLAB session / temp files
+*.asv
+*.m~
+octave-workspace
+
+# macOS
+.DS_Store
